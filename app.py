@@ -1,3 +1,7 @@
+# link do colab 
+# https://colab.research.google.com/drive/19sskbhv6f98AeLNbMi3ZfrVrayXyhGLk?usp=sharing
+
+
 import streamlit as st
 import tensorflow as tf
 from tensorflow.keras.models import load_model
